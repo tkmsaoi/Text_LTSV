@@ -8,7 +8,8 @@
 ---
 
 ```
-$ TODO
+$ pear channel-discover openpear.org
+$ pear install openpear/Text_LTSV-1.0.0
 ```
 
 
